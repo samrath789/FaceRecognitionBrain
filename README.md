@@ -26,18 +26,15 @@ CLARIFAI API
 
 <img src="https://github.com/samrath789/FaceRecognitionBrain/blob/master/w2.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" 
-     width="800" height="700"/>
+     style="float: left; margin-right: 10px;"/>
 
 ### Enter Url page
 
 <img src="https://github.com/samrath789/FaceRecognitionBrain/blob/master/W3.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" 
-     width="800" height="700"/>
+     style="float: left; margin-right: 10px;"/>
 
 ### Output
 <img src="https://github.com/samrath789/FaceRecognitionBrain/blob/master/W4.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" 
-     width="800" height="700"/>
+     style="float: left; margin-right: 10px;"/>
