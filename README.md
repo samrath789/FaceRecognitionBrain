@@ -9,8 +9,9 @@ REACT
 CLARIFAI API
 
 ### Steps to run your React App
-cd *Your app folder name*
-npm start
+1. cd *Your app folder name*
+
+2. npm start
  
 ## Working
 
