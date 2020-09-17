@@ -17,27 +17,27 @@ CLARIFAI API
 
 ### Login page
 
-<img src="https://github.com/samrath789/Time-Series-Analysis/blob/master/Screenshots/Screenshot%20(55).png"
+<img src="https://github.com/samrath789/FaceRecognitionBrain/blob/master/W1.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" 
-     width="800" height="700"/>
+     width="700" height="600"/>
 
 ### Signup page
 
-<img src="https://github.com/samrath789/Time-Series-Analysis/blob/master/Screenshots/Screenshot%20(55).png"
+<img src="https://github.com/samrath789/FaceRecognitionBrain/blob/master/w2.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" 
-     width="800" height="700"/>
+     width="700" height="600"/>
 
 ### Enter Url page
 
-<img src="https://github.com/samrath789/Time-Series-Analysis/blob/master/Screenshots/Screenshot%20(55).png"
+<img src="https://github.com/samrath789/FaceRecognitionBrain/blob/master/W3.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" 
-     width="800" height="700"/>
+     width="700" height="600"/>
 
 ### Output
-<img src="https://github.com/samrath789/Time-Series-Analysis/blob/master/Screenshots/Screenshot%20(55).png"
+<img src="https://github.com/samrath789/FaceRecognitionBrain/blob/master/W4.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" 
-     width="800" height="700"/>
+     width="700" height="600"/>
